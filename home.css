@@ -1,0 +1,57 @@
+
+  h3 {
+    color: blue;
+    text-align: center;     
+     }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    color: rgb(10, 175, 180);
+    text-align: center;
+  }
+
+  h2 {
+    color: crimson;
+    text-align: center;
+    background-color: yellow;
+  }
+  
+  h5 {
+    color: rgb(29, 21, 22);
+    text-align: center;
+    background-color: violet;
+    font-size: medium;
+  }
+
+  h4 {
+    color: darkblue;
+    text-align: left;
+    font-size: x-large;
+    background-color: rgb(153, 223, 245);
+  }
+  a:link {
+    color: rgb(233, 76, 14);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(33, 68, 226);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: rgb(255, 102, 0);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  a:hover{
+    color: rgb(255, 38, 0);
+    text-decoration: none;
+    
+    }
+ 
+  
